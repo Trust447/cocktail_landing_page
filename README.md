@@ -26,7 +26,7 @@
 
 ## 🤖 Introduction
 
-This is a stunning, scroll-driven cocktail landing page designed and developed by **Trust Ihemebiri**. The site combines modern web animation tools with responsive design to create an immersive, interactive user experience. Built with **React**, styled using **Tailwind CSS**, and powered by **GSAP**, the landing page features dynamic animations, scroll-triggered effects, parallax transitions, and custom carousel components.
+This is a stunning, scroll-driven cocktail landing page by **Trust Ihemebiri**. The site combines modern web animation tools with responsive design to create an immersive, interactive user experience. Built with **React**, styled using **Tailwind CSS**, and powered by **GSAP**, the landing page features dynamic animations, scroll-triggered effects, parallax transitions, and custom carousel components.
 
 ---
 
